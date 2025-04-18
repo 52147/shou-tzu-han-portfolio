@@ -120,3 +120,12 @@
     @apply bg-background text-foreground;
   }
 }
+@layer utilities {
+  @media (max-width: 639px) {
+    .force-h-auto {
+      height: auto !important;
+      display: flex;
+      flex-direction: column;
+    }
+  }
+}
