@@ -64,16 +64,16 @@ const projects = {
       },
       details: `Includes emotion parsing, prompt chaining, and long-term user history for reflective journaling.`,
     },
-    {
-      title: "404 AI Not Found",
-      description: "AI blog, toolkit hub, and dev service portal.",
-      tags: ["Platform", "Blog"],
-      links: {
-        Website: "https://404-ai-not-found-i6h1.vercel.app/",
-        GitHub: "https://github.com/52147/404-ai-not-found",
-      },
-      details: `A hub for AI resources, code examples, and consultation offerings.`,
-    },
+    // {
+    //   title: "404 AI Not Found",
+    //   description: "AI blog, toolkit hub, and dev service portal.",
+    //   tags: ["Platform", "Blog"],
+    //   links: {
+    //     Website: "https://404-ai-not-found-i6h1.vercel.app/",
+    //     GitHub: "https://github.com/52147/404-ai-not-found",
+    //   },
+    //   details: `A hub for AI resources, code examples, and consultation offerings.`,
+    // },
   ],
   ux: [
     {
