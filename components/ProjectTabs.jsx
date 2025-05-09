@@ -182,11 +182,11 @@ const projects = {
 };
 
 const categories = [
-  { key: "educational", label: "🧠 Educational AI" },
-  { key: "trustworthy", label: "🧬 Trustworthy AI" },
-  { key: "human", label: "🧍 Human-Centered" },
-  { key: "ux", label: "🎨 UX / Full-Stack" },
-  { key: "others", label: "🔧 Other Projects" },
+  { key: "educational", label: "Educational AI" },
+  { key: "trustworthy", label: "Trustworthy AI" },
+  { key: "human", label: "Human-Centered" },
+  { key: "ux", label: "UX / Full-Stack" },
+  { key: "others", label: "Other Projects" },
 ];
 
 export default function ProjectTabs({ searchQuery = "" }) {
