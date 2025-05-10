@@ -152,25 +152,25 @@ const projects = {
       },
       details: `Clean layout and intuitive ordering flow.`,
     },
-    {
-      title: "Go2POS Marketing Site",
-      description: "POS product marketing UX design.",
-      tags: ["UX", "Marketing"],
-      links: {
-        Figma:
-          "https://www.figma.com/design/LGy9BME6TtBe9jOrbqvMOO/Go2pos-Marketing",
-      },
-      details: `Feature highlights and effective call-to-action.`,
-    },
-    {
-      title: "Seekway Website UI",
-      description: "Modern interface for tech company.",
-      tags: ["UI", "Figma"],
-      links: {
-        Figma: "https://www.figma.com/design/KnpMkNrvYc3zvv0JbfPexw/Seekway",
-      },
-      details: `Product-focused layout with hierarchy of information.`,
-    },
+    // {
+    //   title: "Go2POS Marketing Site",
+    //   description: "POS product marketing UX design.",
+    //   tags: ["UX", "Marketing"],
+    //   links: {
+    //     Figma:
+    //       "https://www.figma.com/design/LGy9BME6TtBe9jOrbqvMOO/Go2pos-Marketing",
+    //   },
+    //   details: `Feature highlights and effective call-to-action.`,
+    // },
+    // {
+    //   title: "Seekway Website UI",
+    //   description: "Modern interface for tech company.",
+    //   tags: ["UI", "Figma"],
+    //   links: {
+    //     Figma: "https://www.figma.com/design/KnpMkNrvYc3zvv0JbfPexw/Seekway",
+    //   },
+    //   details: `Product-focused layout with hierarchy of information.`,
+    // },
     {
       title: "AI Workplace Monitoring System",
       description: "Internal HR incident & team health platform.",
